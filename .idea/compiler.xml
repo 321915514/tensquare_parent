@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tensquare_article" />
+        <module name="tensquare_base" />
+        <module name="tensquare_common" />
+        <module name="tensquare_gathering" />
+        <module name="tensquare_qa" />
+        <module name="tensquare_recruit" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tensquare_article" options="" />
+      <module name="tensquare_base" options="" />
+      <module name="tensquare_common" options="" />
+      <module name="tensquare_gathering" options="" />
+      <module name="tensquare_parent" options="" />
+      <module name="tensquare_qa" options="" />
+      <module name="tensquare_recruit" options="" />
+    </option>
+  </component>
+</project>
